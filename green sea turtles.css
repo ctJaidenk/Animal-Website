@@ -1,0 +1,39 @@
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 750px;
+
+}
+h1{
+    text-align: center;
+    font-size: 75px;
+    color: green;
+    font-family:Impact;
+}
+.wiki{
+    font-size: 40px;
+    text-align: center;
+}
+.list{
+    margin-left: 650px;
+}
+.ul{
+  position:fixed;
+  top: 0;
+  left: 0;
+  width: 175px;
+  height: 2000px;
+  background-color: gray;
+  list-style-type: none;
+}   
+li a {
+  display: block;
+  color: black;
+  padding: 8px 20px;
+}
+li a:hover {
+  background-color: #555555;
+  color: white;
+}
